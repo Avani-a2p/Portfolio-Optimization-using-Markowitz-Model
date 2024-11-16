@@ -1,5 +1,5 @@
 # Portfolio-Optimization-using-Markowitz-model
-take a test drive : (https://avani-a2p-portfolio-optimization-using-markowit-1--guide-efi3kg.streamlit.app/Project)
+take a test drive : (https://avani-a2p-portfolio-optimization-using-markowit-1--guide-efi3kg.streamlit.app/?)
 
 ## Markowitz Model
 - Markowitz Model is an optimization problem that leads to minimum varinace problem.
